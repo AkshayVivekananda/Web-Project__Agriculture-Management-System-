@@ -4,7 +4,7 @@ const Nav = () => {
   return (
     <>
       <div>
-        Hello AK-GK
+        Hello BOT
       </div>
     </>
   )

@@ -4,7 +4,7 @@ const Nav = () => {
   return (
     <>
       <div>
-        Hello Bro
+        Hello B
       </div>
     </>
   )
